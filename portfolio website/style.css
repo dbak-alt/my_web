@@ -88,10 +88,8 @@ header{
     z-index: 1000;
     height:100%;
     width:35rem;
-    background:		#7e097e;
-    background-image: url('images/b0nn13_4nd_clyd3-MfuwmjizYdo-unsplash.jpg');
-    background-attachment: fixed;  
-  background-size: cover;
+   
+    background-color:  rgb(238, 130, 238);;
     display: flex;
     align-items: center;
     justify-content: center;
