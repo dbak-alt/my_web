@@ -491,7 +491,7 @@ header .navbar ul li a:hover{
         height: 100%;
         margin: 0;
         overflow-x: hidden;
-        overflow-y: auto;
+        overflow-y: HIDDEN;
         padding: 0;
         width: 100%;
         background-image: url("images/aleksander-vlad-rbyAJw8tpd0-unsplash.jpg");
