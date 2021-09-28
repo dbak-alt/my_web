@@ -217,7 +217,7 @@ header .navbar ul li a:hover{
     background:#222;
     text-align: center;
     padding: 2rem;
-    opacity: 0.5;
+    opacity: 0.8;
     
     
     box-shadow: 2px 5px var(--yellow);
